@@ -8,3 +8,7 @@ Comandos do Git para uso.
 - `git log`// visualiza os pontos na linha de tempo / commit.
 - `git status`// informa o estado das alterações do nosso porjeto.
 - `git show`// apresenta determinado ponto na historia.
+- `git branch`// gerenciar novas linha do tempo.
+- `git checkout`// manipula as linhas do tempo.
+- `git merge`// unir as linhas de tempo.
+- `git push`// enviar alterações locais para o repositorio remoto
